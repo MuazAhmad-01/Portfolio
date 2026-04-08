@@ -29,6 +29,10 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import nausea from "./nausea.png";
+import leadership from "./leadership.png";
+import academic from "./academic.png";
+import software_dev from "./software_dev.png";
 
 export {
   logo,
@@ -59,4 +63,8 @@ export {
   carrent,
   jobit,
   tripguide,
+  nausea,
+  leadership,
+  academic,
+  software_dev,
 };

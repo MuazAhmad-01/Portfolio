@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Muaz Ahmad — Portfolio",
+    fullName: "Muaz Ahmad",
+    email: "mianmuaz5444@gmail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Muaz Ahmad",
+    p: ["I specialize in Cybersecurity and the architecture of", "Intelligent Systems through Machine Learning and Deep Learning."],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,15 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I am a Computer Science student (Class of 2028) with a strong passion 
+      for managing and leading software projects. My primary focus revolves around 
+      the intersection of Cybersecurity and Artificial Intelligence, where I specialize 
+      in designing advanced Machine Learning and Deep Learning architectures. 
+      While I am deeply engaged in these fields, I also maintain a strong technical 
+      foundation in C++, Python, and Object-Oriented Programming (OOP) developed 
+      through multiple technical milestones. I aim to bridge the gap between 
+      technical excellence and software administration by leading teams to build 
+      secure, intelligent, and scalable solutions.`,
     },
     experience: {
       p: "What I have done so far",
@@ -84,11 +88,10 @@ export const config: TConfig = {
     works: {
       p: "My work",
       h2: "Projects.",
-      content: `Following projects showcases my skills and experience through
-    real-world examples of my work. Each project is briefly described with
-    links to code repositories and live demos in it. It reflects my
-    ability to solve complex problems, work with different technologies,
-    and manage projects effectively.`,
+      content: `The following projects showcase my skills through real-world examples, 
+      reflecting my ability to lead developments in management systems, game design, 
+      and AI research. Each project represents my commitment to clean code and 
+      effective software architecture.`,
     },
   },
 };
