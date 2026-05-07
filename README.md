@@ -47,7 +47,7 @@ An innovative online platform allowing users to participate in real-time car auc
 Feel free to reach out to me for collaborations or just a friendly chat about tech!
 
 - **GitHub**: [github.com/muaz-ahmad](https://github.com/muaz-ahmad)
-- **LinkedIn**: [Your LinkedIn Profile] (Update this!)
+- **LinkedIn**: e] (Update this!)
 
 ---
 Built with ❤️ using React, Three.js, and Tailwind CSS.
